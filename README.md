@@ -1,1 +1,1 @@
-# AugARP-AAAI24
+# AugARP
